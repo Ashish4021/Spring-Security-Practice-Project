@@ -126,7 +126,7 @@ Request/response DTOs| Controls incoming data and API responses
 
 1. Clone the repository
 
-git clone <[your-github-repository-url](https://github.com/Ashish4021/Spring-Security-Practice-Project.git)>
+git clone <Repository link>
 cd <your-project-folder>
 
 2. Create the MySQL database
